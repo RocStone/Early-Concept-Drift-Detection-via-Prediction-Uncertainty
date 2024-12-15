@@ -1,3 +1,7 @@
+# Early Concept Drift Detection via Prediction Uncertainty
+
+Accepted by AAAI 2025.
+
 
 step 0: install package river, numpy, torch, torchvision, tqdm, torchvision by pip.
 
